@@ -41,3 +41,7 @@ Sosyal Medya (Social Media): Sosyal medya hesaplarının yönetimi.
 Gelen Kutusu (Inbox): Gelen mesajların görüntülenmesi ve yönetimi.
 
 ![Ekran Görüntüsü](a.png)
+
+![Ekran Görüntüsü](b.png)
+
+![Ekran Görüntüsü](c.png)
