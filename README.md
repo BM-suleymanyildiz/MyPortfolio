@@ -39,4 +39,5 @@ Referanslar (References): Referansların eklenmesi ve düzenlenmesi.
 Sosyal Medya (Social Media): Sosyal medya hesaplarının yönetimi.
 
 Gelen Kutusu (Inbox): Gelen mesajların görüntülenmesi ve yönetimi.
-![Ekran Görüntüsü](MyPortfolio/a.png)
+
+![Ekran Görüntüsü](a.png)
