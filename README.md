@@ -1,12 +1,12 @@
-#Hoş Geldiniz! .Net Core 6.0 ile Admin Panelli Dinamik Portfolyo Projesine
+# Hoş Geldiniz! .Net Core 6.0 ile Admin Panelli Dinamik Portfolyo Projesine
 
 Bu proje, Murat Yücedağ'ın Udemy üzerinde yayınladığı "Asp.Net Core ile Admin Panelli Dinamik Bir Portfolyo Geliştirelim" eğitiminden ilham alarak oluşturulmuştur. Proje, kapsamlı bir portföy yönetim sistemi sunar ve kullanıcıların akademik bilgilerini yönetmelerini sağlar.
 
-#Proje Amacı
+# Proje Amacı
 
 Kullanıcılar, akademik bilgilerini düzenleyebilir ve kullanıcı dostu bir arayüzde görsel olarak sergileyebilir. CRUD işlemleriyle verilerini yönetebilirler.
 
-#Kullanılan Teknolojiler
+# Kullanılan Teknolojiler
 
 Entity Framework Core: Veritabanı işlemleri için C# sınıfları kullanıldı.
 
@@ -18,7 +18,7 @@ ViewComponent: Verilerin görsel olarak sunulması için kullanıldı.
 
 Asp.Net Core 6.0: Proje bu sürüm üzerine inşa edildi.
 
-#Proje Özellikleri
+# Proje Özellikleri
 
 Dashboard / İstatistikler: LINQ sorgularıyla 12 farklı istatistik sunuluyor.
 
